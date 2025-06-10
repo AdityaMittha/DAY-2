@@ -1,7 +1,7 @@
 🔢 Arithmetic Circuits in Verilog – Part 2
 This repository contains five essential Verilog modules demonstrating fundamental arithmetic and selection logic used in digital design. These projects are beginner-friendly and ideal for anyone learning Verilog HDL or preparing for FPGA / ASIC / VLSI roles.
 📦 Projects Overview
-No.ProjectDescription6Half SubtractorSubtracts 2-bit inputs A - B7Full SubtractorSubtracts A - B - Bin8Ripple Carry Adder (4-bit)Performs 4-bit addition using full adders92:1 MultiplexerSelects between two 1-bit inputs108:1 MultiplexerSelects from 8 input lines using 3-bit sel
+No.Project Description 6 Half Subtractor Subtracts 2-bit inputs A - B7Full SubtractorSubtracts A - B - Bin8Ripple Carry Adder (4-bit)Performs 4-bit addition using full adders 92:1 Multiplexer Selects between two 1-bit inputs 108:1 Multiplexer Selects from 8 input lines using 3-bit sel
 🔧 Project Details
 6️⃣ Half Subtractor
 
